@@ -32,6 +32,7 @@
 ## taewoo
 
 ## Tennant
+[단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)
 
 ## 기꼬
 

@@ -19,8 +19,9 @@
 # 멤버 🙆‍♂️
 
 ## 제리님
-[유지보수 가능한 코드를 위한 노오오력!🔥](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5)
+[유지보수 가능한 코드를 위한 노오오력!🔥](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5) - 1주차
 
+[SEO를 위한 노오오력!👍](https://velog.io/@jerrynim_/SEO%EB%A5%BC%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5) - 1주차
 ## Hyeonseok Bang
 
 ## Johnny

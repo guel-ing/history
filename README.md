@@ -43,6 +43,7 @@
 
 ## 샌님
 [2020년 회고](https://velog.io/@sannim/1%ED%99%94-2020%EB%85%84-%ED%9A%8C%EA%B3%A0) - 1주차
+
 [2021년 목표](https://velog.io/@sannim/2021%EB%85%84-%EB%AA%A9%ED%91%9C) - 2주차
 
 ## 수박찐맛

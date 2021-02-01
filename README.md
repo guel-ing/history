@@ -26,22 +26,32 @@
 
 ## Johnny
 
-## Kim hanmin
+## SH
+[Javascript30 - slide in on scroll]https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll
 
 ## sudhimmeli
+[비전공자의 개발 분투기(1) – 나는 왜 개발공부를 망쳤는가](https://velog.io/@sud_himmeli/WhyImessedup)
 
 ## taewoo
+[[Swift] Coordinator Pattern[Swift] Coordinator Pattern](https://jintaewoo.tistory.com/58)
 
 ## Tennant
 [단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)
 
 ## 기꼬
+[뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)
 
 ## 샌님
 [1화 - 2020년 회고](https://velog.io/@sannim/1%ED%99%94-2020%EB%85%84-%ED%9A%8C%EA%B3%A0)
+
 ## 수박찐맛
+[컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd)
 
 ## 쓰레기태우기
+[브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more)
+
+## snoop2head
+[코로나19 원인 불명 확진자 분석 (12/28)](https://velog.io/@snoop2head/covid19-unknown-spread)
 
 ## 벌금현황 💸
 | name | 벌금횟수

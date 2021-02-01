@@ -27,7 +27,7 @@
 ## Johnny
 
 ## SH
-[Javascript30 - slide in on scroll]https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll
+[Javascript30 - slide in on scroll](https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll)
 
 ## sudhimmeli
 [비전공자의 개발 분투기(1) – 나는 왜 개발공부를 망쳤는가](https://velog.io/@sud_himmeli/WhyImessedup)

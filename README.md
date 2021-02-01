@@ -58,8 +58,8 @@
 |---|---
 | 제리님 | 0
 | Hyeonseok Bang | 0   
-| Johnny | 0 
-| Kim hanmin | 0 
+| Johnny | 1 
+| Kim hanmin | 1 
 | sudhimmeli | 0 
 | taewoo | 0 
 | Tennant | 0 
@@ -72,4 +72,4 @@
 ## 면제 😈
 | name | 날짜 
 |---|---
-| 제리님 | 2020-01-20
+| 누군가 | 2020-01-20

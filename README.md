@@ -42,7 +42,9 @@
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)
 
 ## 샌님
-[1화 - 2020년 회고](https://velog.io/@sannim/1%ED%99%94-2020%EB%85%84-%ED%9A%8C%EA%B3%A0)
+[2020년 회고](https://velog.io/@sannim/1%ED%99%94-2020%EB%85%84-%ED%9A%8C%EA%B3%A0) - 1주차
+
+[2021년 목표](https://velog.io/@sannim/2021%EB%85%84-%EB%AA%A9%ED%91%9C) - 2주차
 
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd)

@@ -25,6 +25,7 @@
 ## Hyeonseok Bang
 
 ## Johnny
+[[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/)
 
 ## SH
 [Javascript30 - slide in on scroll](https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll)

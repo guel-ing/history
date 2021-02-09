@@ -47,6 +47,8 @@
 ## Tennant
 [단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)  - 1 주차
 
+[확률론 기초](https://pazu0522.github.io/통계학/확률론/stats110_06/) -2 주차
+
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
 
@@ -77,7 +79,7 @@
 | Kim hanmin | 2 
 | sudhimmeli | 0 
 | taewoo | 1
-| Tennant | 1 
+| Tennant | 0
 | 기꼬 | 1 
 | 샌님 | 0 
 | 수박찐맛 | 0 

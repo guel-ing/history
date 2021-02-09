@@ -21,46 +21,58 @@
 ## 제리님
 [유지보수 가능한 코드를 위한 노오오력!🔥](https://velog.io/@jerrynim_/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5) - 1주차
 
-[SEO를 위한 노오오력!👍](https://velog.io/@jerrynim_/SEO%EB%A5%BC%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5) - 1주차
+[SEO를 위한 노오오력!👍](https://velog.io/@jerrynim_/SEO%EB%A5%BC%EC%9C%84%ED%95%9C-%EB%85%B8%EC%98%A4%EC%98%A4%EB%A0%A5) - 1 주차
+
+[나의 첫 이직 여정기](https://velog.io/@jerrynim_/%EB%82%98%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%97%AC%EC%A0%95%EA%B8%B0) - 2 주차
+
+
 ## Hyeonseok Bang
 
 ## Johnny
-[[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/)
+[[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 1주차
 
 ## SH
-[Javascript30 - slide in on scroll](https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll)
+[Javascript30 - slide in on scroll](https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll) - 1주차
+
+[CALLBACK / PROMISE / ASYNC](https://velog.io/@seeh_h/CALLBACK-PROMISE-ASYNC) - 2주차
 
 ## sudhimmeli
-[비전공자의 개발 분투기(1) – 나는 왜 개발공부를 망쳤는가](https://velog.io/@sud_himmeli/WhyImessedup)
+[비전공자의 개발 분투기(1) – 나는 왜 개발공부를 망쳤는가](https://velog.io/@sud_himmeli/WhyImessedup)  - 1주차
+
+[우당탕탕 사이드프로젝트(1) - ToDoary(1)](https://velog.io/@sud_himmeli/ToDoary1)  - 2 주차
 
 ## taewoo
-[[Swift] Coordinator Pattern[Swift] Coordinator Pattern](https://jintaewoo.tistory.com/58)
+[[Swift] Coordinator Pattern[Swift] Coordinator Pattern](https://jintaewoo.tistory.com/58) - 1 주차
 
 ## Tennant
-[단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)
+[단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)  - 1 주차
 
 ## 기꼬
-[뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)
+[뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
 
 ## 샌님
 [2020년 회고](https://velog.io/@sannim/1%ED%99%94-2020%EB%85%84-%ED%9A%8C%EA%B3%A0) - 1주차
 
-[2021년 목표](https://velog.io/@sannim/2021%EB%85%84-%EB%AA%A9%ED%91%9C) - 2주차
+[2021년 목표](https://velog.io/@sannim/2021%EB%85%84-%EB%AA%A9%ED%91%9C) - 2 주차
 
 ## 수박찐맛
-[컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd)
+[컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
+
+[DevOps](https://www.notion.so/dimsss/DevOps-c57f01eadafd4581b3cbf7bfe9b36e76)  - 2 주차
 
 ## 쓰레기태우기
-[브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more)
+[브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
 
 ## snoop2head
-[코로나19 원인 불명 확진자 분석 (12/28)](https://velog.io/@snoop2head/covid19-unknown-spread)
+[코로나19 원인 불명 확진자 분석 (12/28)](https://velog.io/@snoop2head/covid19-unknown-spread) - 1 주차
+
+[Dueling DQN](https://velog.io/@snoop2head/Dueling-DQN) - 2 주차
 
 ## 벌금현황 💸
 | name | 벌금횟수
 |---|---
 | 제리님 | 0
-| Hyeonseok Bang | 0   
+| Hyeonseok Bang | 2   
 | Johnny | 1 
 | Kim hanmin | 1 
 | sudhimmeli | 0 

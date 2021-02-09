@@ -29,7 +29,7 @@
 ## Hyeonseok Bang
 
 ## Johnny
-[[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 1주차
+[[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 2 주차
 
 ## SH
 [Javascript30 - slide in on scroll](https://velog.io/@seeh_h/Javascript30-slide-in-on-scroll) - 1주차
@@ -74,14 +74,15 @@
 | 제리님 | 0
 | Hyeonseok Bang | 2   
 | Johnny | 1 
-| Kim hanmin | 1 
+| Kim hanmin | 2 
 | sudhimmeli | 0 
-| taewoo | 0 
-| Tennant | 0 
-| 기꼬 | 0 
+| taewoo | 1
+| Tennant | 1 
+| 기꼬 | 1 
 | 샌님 | 0 
 | 수박찐맛 | 0 
-| 쓰레기태우기 | 0 
+| 쓰레기태우기 | 1 
+| snoop2head | 0 
 
 
 ## 면제 😈

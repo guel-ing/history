@@ -57,6 +57,8 @@
 
 [2021년 목표](https://velog.io/@sannim/2021%EB%85%84-%EB%AA%A9%ED%91%9C) - 2 주차
 
+[신입 개발자 입문하기](https://velog.io/@sannim/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0) - 3 주차
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

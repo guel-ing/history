@@ -26,8 +26,6 @@
 [나의 첫 이직 여정기](https://velog.io/@jerrynim_/%EB%82%98%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%97%AC%EC%A0%95%EA%B8%B0) - 2 주차
 
 
-## Hyeonseok Bang
-
 ## Johnny
 [[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 2 주차
 
@@ -36,18 +34,26 @@
 
 [CALLBACK / PROMISE / ASYNC](https://velog.io/@seeh_h/CALLBACK-PROMISE-ASYNC) - 2주차
 
+[VanilaJS로 SPA 구현하기](https://velog.io/@seeh_h/VanilaJS%EB%A1%9C-SPA-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0) - 3 주차
+
 ## sudhimmeli
 [비전공자의 개발 분투기(1) – 나는 왜 개발공부를 망쳤는가](https://velog.io/@sud_himmeli/WhyImessedup)  - 1주차
 
 [우당탕탕 사이드프로젝트(1) - ToDoary(1)](https://velog.io/@sud_himmeli/ToDoary1)  - 2 주차
 
+[깃허브를 꾸미고 싶어서 쓰게된 Markdown 정리](https://velog.io/@sud_himmeli/markdown) - 3 주차
+
 ## taewoo
 [[Swift] Coordinator Pattern[Swift] Coordinator Pattern](https://jintaewoo.tistory.com/58) - 1 주차
+
+[[Swift] Singleton Pattern](https://jintaewoo.tistory.com/59) - 3 주차
 
 ## Tennant
 [단골 손님은 일반 손님보다 씀씀이가 더 클까?](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/mann_whitney_u-test/)  - 1 주차
 
 [확률론 기초](https://pazu0522.github.io/통계학/확률론/stats110_06/) -2 주차
+
+[기댓값과 확률분포](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_09/) - 3 주차
 
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
@@ -66,6 +72,8 @@
 
 [DevOps](https://www.notion.so/dimsss/DevOps-c57f01eadafd4581b3cbf7bfe9b36e76)  - 2 주차
 
+[최대한 자세하게](https://www.notion.so/dimsss/4c596ae83c3841af9f91b9530047d131) 3주차
+
 ## 쓰레기태우기
 [브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
 
@@ -75,23 +83,32 @@
 [Dueling DQN](https://velog.io/@snoop2head/Dueling-DQN) - 2 주차
 
 ## 벌금현황 💸
-| name | 벌금횟수
+| name | 미인증 횟수
 |---|---
-| 제리님 | 0
-| Hyeonseok Bang | 2   
-| Johnny | 1 
-| Kim hanmin | 2 
+| 제리님 | 1
+| Johnny | 2 
+| SH | 0 
 | sudhimmeli | 0 
 | taewoo | 1
 | Tennant | 0
-| 기꼬 | 1 
+| 기꼬 | 2 
 | 샌님 | 0 
 | 수박찐맛 | 0 
-| 쓰레기태우기 | 1 
-| snoop2head | 0 
+| 쓰레기태우기 | 2 
+| snoop2head | 1 
 
 
-## 면제 😈
-| name | 날짜 
+## 남은 면제 😈
+| name | 벌금횟수
 |---|---
-| 누군가 | 2020-01-20
+| 제리님 | 0
+| Johnny | 0
+| SH | 1
+| sudhimmeli | 1
+| taewoo | 0
+| Tennant | 1
+| 기꼬 | 0 
+| 샌님 | 1 
+| 수박찐맛 | 1 
+| 쓰레기태우기 | 0 
+| snoop2head | 0

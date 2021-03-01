@@ -75,6 +75,8 @@
 
 [국비지원 학원 수강 준비하는 법](https://velog.io/@sannim/%EA%B5%AD%EB%B9%84%EC%A7%80%EC%9B%90-%ED%95%99%EC%9B%90-%EC%88%98%EA%B0%95-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%B2%95) - 5 주차
 
+[공무원을 그만두고 개발자가 된 이유](https://velog.io/@sannim/%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%84-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B3%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0) - 6주차
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

@@ -45,6 +45,8 @@
 
 [깃허브를 꾸미고 싶어서 쓰게된 Markdown 정리](https://velog.io/@sud_himmeli/markdown) - 3 주차
 
+[내가 사용해본 다양한 인터넷 강의 플랫폼](https://velog.io/@sud_himmeli/elearning) - 5 주차
+
 ## taewoo
 [[Swift] Coordinator Pattern[Swift] Coordinator Pattern](https://jintaewoo.tistory.com/58) - 1 주차
 
@@ -60,6 +62,8 @@
 [기댓값과 확률분포](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_09/) - 3 주차
 
 [확률론 기초(Stats 110) : Lesson 13. Normal Distribution](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_13/) - 4 
+
+[자유론(On Liberty) : 존 스튜어트 밀](https://pazu0522.github.io/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/book_review_2021_02/) - 5 주차
 
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
@@ -84,6 +88,8 @@
 
 [최대한 자세하게](https://www.notion.so/dimsss/4c596ae83c3841af9f91b9530047d131) 3주차
 
+[CI(Continuous Integration)](https://www.notion.so/dimsss/CI-Continuous-Integration-a2e8e5d8919b4ad5834af5af8f097f0e) - 5 주차
+
 ## 쓰레기태우기
 [브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
 
@@ -96,16 +102,16 @@
 | name | 미인증 횟수
 |---|---
 | 제리님 | 1
-| Johnny | 3 
-| SH | 0 
+| Johnny | 4 
+| SH | 1 
 | sudhimmeli | 1 
-| taewoo | 1
+| taewoo | 2
 | Tennant | 0
-| 기꼬 | 3 
+| 기꼬 | 4 
 | 샌님 | 0 
 | 수박찐맛 | 1 
-| 쓰레기태우기 | 3 
-| snoop2head | 2 
+| 쓰레기태우기 | 4 
+| snoop2head | 3 
 
 
 ## 남은 면제권 😈

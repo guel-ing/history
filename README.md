@@ -26,6 +26,9 @@
 [나의 첫 이직 여정기](https://velog.io/@jerrynim_/%EB%82%98%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%97%AC%EC%A0%95%EA%B8%B0) - 2 주차
 
 [html, css 문제와 몰랐던 것들](https://velog.io/@jerrynim_/html-css-%EB%AC%B8%EC%A0%9C%EC%99%80-%EB%AA%B0%EB%9E%90%EB%8D%98-%EA%B2%83%EB%93%A4) - 4 주차
+
+[책을 쓰게 된 이야기 - 1부](https://velog.io/@jerrynim_/%EC%B1%85%EC%9D%84-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-1%EB%B6%80) - 6 주차
+
 ## Johnny
 [[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 2 주차
 
@@ -65,6 +68,8 @@
 
 [자유론(On Liberty) : 존 스튜어트 밀](https://pazu0522.github.io/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/book_review_2021_02/) - 5 주차
 
+[확률론 기초(Stats 110) : Lesson 16. Exponential Distribution](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_16/) - 6 주차
+
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
 
@@ -90,6 +95,8 @@
 
 [CI(Continuous Integration)](https://www.notion.so/dimsss/CI-Continuous-Integration-a2e8e5d8919b4ad5834af5af8f097f0e) - 5 주차
 
+[CI(Continuous Integration)](https://www.notion.so/dimsss/CI-Continuous-Integration-a2e8e5d8919b4ad5834af5af8f097f0e) - 6 주차
+
 ## 쓰레기태우기
 [브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
 
@@ -98,36 +105,19 @@
 
 [Dueling DQN](https://velog.io/@snoop2head/Dueling-DQN) - 2 주차
 
-## 벌금현황 💸
-| name | 미인증 횟수
+## 인증현황 🥰
+| name | 인증 횟수
 |---|---
-| 제리님 | 1
-| Johnny | 4 
-| SH | 1 
-| sudhimmeli | 1 
-| taewoo | 2
-| Tennant | 0
-| 기꼬 | 4 
-| 샌님 | 0 
-| 수박찐맛 | 1 
-| 쓰레기태우기 | 4 
-| snoop2head | 3 
+| 제리님 | 4
+| Johnny | 1 
+| SH | 4
+| sudhimmeli | 4 
+| taewoo | 3
+| Tennant | 6
+| 기꼬 | 1 
+| 샌님 | 6 
+| 수박찐맛 | 5
+| 쓰레기태우기 | 1
+| snoop2head | 2 
 
 
-## 남은 면제권 😈
-면제는 1회씩
-
-## 벌금 제출 😈
-| name | 벌금횟수
-|---|---
-| 제리님 | 0
-| Johnny | 0
-| SH | 0
-| sudhimmeli | 0
-| taewoo | 0
-| Tennant | 0
-| 기꼬 | 0 
-| 샌님 | 0
-| 수박찐맛 | 0
-| 쓰레기태우기 | 0 
-| snoop2head | 0

@@ -88,6 +88,8 @@
 
 [전산직 공무원이 되는 법](https://velog.io/@sannim/%EC%A0%84%EC%82%B0%EC%A7%81-%EA%B3%B5%EB%AC%B4%EC%9B%90%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%B2%95) - 7주차
 
+[타입스크립트가 필요한 이유](https://velog.io/@sannim/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

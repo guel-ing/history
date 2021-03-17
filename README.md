@@ -29,6 +29,9 @@
 
 [책을 쓰게 된 이야기 - 1부](https://velog.io/@jerrynim_/%EC%B1%85%EC%9D%84-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-1%EB%B6%80) - 6 주차
 
+[책을 쓰게 된 이야기 - 2부](https://velog.io/@jerrynim_/%EC%B1%85%EC%9D%84-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-2%EB%B6%80) - 7 주차
+
+
 ## Johnny
 [[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 2 주차
 
@@ -70,6 +73,8 @@
 
 [확률론 기초(Stats 110) : Lesson 16. Exponential Distribution](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_16/) - 6 주차
 
+[내일 해가 뜰 확률](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_18/) - 7 주차
+
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
 
@@ -101,6 +106,8 @@
 
 [CI(Continuous Integration)](https://www.notion.so/dimsss/CI-Continuous-Integration-a2e8e5d8919b4ad5834af5af8f097f0e) - 6 주차
 
+[리팩토링 - 2](https://www.notion.so/dimsss/2-7a5ecc3f808f46309ccf2af4619186a1) - 7 주차
+
 ## 쓰레기태우기
 [브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
 
@@ -112,15 +119,15 @@
 ## 인증현황 🥰
 | name | 인증 횟수
 |---|---
-| 제리님 | 4
+| 제리님 | 5
 | Johnny | 1 
 | SH | 4
 | sudhimmeli | 4 
 | taewoo | 3
-| Tennant | 6
+| Tennant | 7
 | 기꼬 | 1 
-| 샌님 | 6 
-| 수박찐맛 | 5
+| 샌님 | 7 
+| 수박찐맛 | 6
 | 쓰레기태우기 | 1
 | snoop2head | 2 
 

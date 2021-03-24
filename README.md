@@ -100,6 +100,8 @@
 
 [타입스크립트가 필요한 이유](https://velog.io/@sannim/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0) - 8주차
 
+[리액트 강의별 수강 후기](https://velog.io/@sannim/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%95%EC%9D%98%EB%B3%84-%EC%88%98%EA%B0%95-%ED%9B%84%EA%B8%B0) - 9주차
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

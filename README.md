@@ -103,6 +103,8 @@
 
 [리액트 강의별 수강 후기](https://velog.io/@sannim/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%95%EC%9D%98%EB%B3%84-%EC%88%98%EA%B0%95-%ED%9B%84%EA%B8%B0) - 9주차
 
+[Do it 타입스크립트 2회독 후기](https://velog.io/@sannim/Do-it-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-2%ED%9A%8C%EB%8F%85-%ED%9B%84%EA%B8%B0) - 10주차
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

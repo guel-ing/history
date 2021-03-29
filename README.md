@@ -80,6 +80,7 @@
 
 [확률론 기초(Stats 110) : Lesson 20. Multinomial Distribution and Cauchy Distribution](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_20/) -8 주차
 
+
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
 
@@ -115,7 +116,9 @@
 
 [리팩토링 - 2](https://www.notion.so/dimsss/2-7a5ecc3f808f46309ccf2af4619186a1) - 7 주차
 
-[리팩토링 - 3 (해당되는 영역으로 코드 옮기기)](https://www.notion.so/dimsss/2-7a5ecc3f808f46309ccf2af4619186a1) - 7 주차
+[리팩토링 - 3 (해당되는 영역으로 코드 옮기기)](https://www.notion.so/dimsss/2-7a5ecc3f808f46309ccf2af4619186a1) - 8 주차
+
+[공부 방향의 변](https://www.notion.so/45d45679b726494ea2d9949f77cb3021) - 9 주차
 
 ## 쓰레기태우기
 [브라우저 확장 프로그램 개발 시작하기](https://taeuk-gang.github.io/wiki/browser_extension_1/#more) - 1 주차
@@ -125,6 +128,8 @@
 
 [Dueling DQN](https://velog.io/@snoop2head/Dueling-DQN) - 2 주차
 
+[CRAFT Paper Reading](https://velog.io/@snoop2head/CRAFT-Paper-Reading) - 9 주차
+
 ## 인증현황 🥰
 | name | 인증 횟수
 |---|---
@@ -133,11 +138,11 @@
 | SH | 4
 | sudhimmeli | 4 
 | taewoo | 3
-| Tennant | 8
+| Tennant | 9
 | 기꼬 | 1 
-| 샌님 | 8
-| 수박찐맛 | 7
+| 샌님 | 9
+| 수박찐맛 | 8
 | 쓰레기태우기 | 1
-| snoop2head | 2 
+| snoop2head | 3
 
 

@@ -80,6 +80,11 @@
 
 [확률론 기초(Stats 110) : Lesson 20. Multinomial Distribution and Cauchy Distribution](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_20/) -8 주차
 
+[확률론 기초(Stats 110](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_21/) : Lesson 21. Covariance and Correlation) - 9 주차
+
+[노르웨이의 숲(Norwegian Wood) : 무라카미 하루키](https://pazu0522.github.io/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/book_review_2021_03/) - 10 주차
+
+
 
 ## 기꼬
 [뭐든 해보기 - 작곡[밤의 온도]](https://blog.naver.com/h1guitar/222226588794)  - 1 주차
@@ -133,6 +138,8 @@
 [Dueling DQN](https://velog.io/@snoop2head/Dueling-DQN) - 2 주차
 
 [CRAFT Paper Reading](https://velog.io/@snoop2head/CRAFT-Paper-Reading) - 9 주차
+
+[Retinanet Paper Summary & Torch Model Code](https://velog.io/@snoop2head/Retinanet-Paper-Summary-Torch-Model-Code) - 10 주차
 
 ## 인증현황 🥰
 | name | 인증 횟수

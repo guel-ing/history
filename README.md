@@ -31,8 +31,6 @@
 
 [책을 쓰게 된 이야기 - 2부](https://velog.io/@jerrynim_/%EC%B1%85%EC%9D%84-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-2%EB%B6%80) - 7 주차
 
-[책을 쓰게 된 이야기 - 2부](https://velog.io/@jerrynim_/%EC%B1%85%EC%9D%84-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-2%EB%B6%80) - 7 주차
-
 [개발자의 디자인 시스템 회고](https://velog.io/@jerrynim_/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%9A%8C%EA%B3%A0) - 8 주차
 
 ## Johnny
@@ -149,11 +147,11 @@
 | SH | 4
 | sudhimmeli | 4 
 | taewoo | 3
-| Tennant | 9
+| Tennant | 10
 | 기꼬 | 1 
-| 샌님 | 9
+| 샌님 | 10
 | 수박찐맛 | 8
 | 쓰레기태우기 | 1
-| snoop2head | 3
+| snoop2head | 4
 
 

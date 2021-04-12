@@ -33,6 +33,8 @@
 
 [개발자의 디자인 시스템 회고](https://velog.io/@jerrynim_/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%9A%8C%EA%B3%A0) - 8 주차
 
+[캡챠(CAPTCHA)를 알아보자 (로봇이 아닙니다! 🤖 )](https://velog.io/@jerrynim_/%EC%BA%A1%EC%B1%A0CAPTCHA%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EB%A1%9C%EB%B4%87%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4) - 11 주차
+
 ## Johnny
 [[React] 더 나은 함수 컴포넌트를 위한 3가지 팁](https://jong-hui.github.io/devlog/2021/02/02/(React)3-tips-for-better-functional-components/) - 2 주차
 
@@ -81,6 +83,8 @@
 [확률론 기초(Stats 110](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_21/) : Lesson 21. Covariance and Correlation) - 9 주차
 
 [노르웨이의 숲(Norwegian Wood) : 무라카미 하루키](https://pazu0522.github.io/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/book_review_2021_03/) - 10 주차
+
+[확률론 기초(Stats 110) : Lesson 24. Gamma Distribution and Poisson Process](https://pazu0522.github.io/%ED%86%B5%EA%B3%84%ED%95%99/%ED%99%95%EB%A5%A0%EB%A1%A0/stats110_24/) - 11 주차
 
 
 
@@ -141,19 +145,22 @@
 
 [Retinanet Paper Summary & Torch Model Code](https://velog.io/@snoop2head/Retinanet-Paper-Summary-Torch-Model-Code) - 10 주차
 
+[Alexnet 논문 읽기](https://velog.io/@snoop2head/Alexnet-paper-reading) - 11주차
+
+
 ## 인증현황 🥰
 | name | 인증 횟수
 |---|---
-| 제리님 | 6
+| 제리님 | 7
 | Johnny | 1 
 | SH | 4
 | sudhimmeli | 4 
 | taewoo | 3
-| Tennant | 10
+| Tennant | 11
 | 기꼬 | 1 
-| 샌님 | 10
+| 샌님 | 11
 | 수박찐맛 | 8
 | 쓰레기태우기 | 1
-| snoop2head | 4
+| snoop2head | 5
 
 

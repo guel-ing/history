@@ -110,6 +110,8 @@
 
 [1년차 개발자의 성장 회고](https://velog.io/@sannim/1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%ED%9A%8C%EA%B3%A0) - 11주차
 
+[이진트리 후위 순회](https://velog.io/@sannim/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC-%ED%9B%84%EC%9C%84-%EC%88%9C%ED%9A%8C) - 12주차
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 

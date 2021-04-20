@@ -116,6 +116,8 @@
 
 [이진트리 후위 순회](https://velog.io/@sannim/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC-%ED%9B%84%EC%9C%84-%EC%88%9C%ED%9A%8C) - 12주차
 
+[주1회 포스팅을 마치며](https://velog.io/@sannim/%EC%A3%BC1%ED%9A%8C-%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%9D%84-%EB%A7%88%EC%B9%98%EB%A9%B0) - 13주차(마지막)
+
 ## 수박찐맛
 [컴퓨터의 부동 소수점 표현](https://www.notion.so/dimsss/552068645c9c49f2a450a85b4fbdf3bd) - 1 주차
 
